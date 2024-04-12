@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheodoreDev&theme=github_dark&hide=contribs&show_icons=true" />
@@ -6,6 +6,17 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheodoreDev&theme=github_dark&layout=compact" />
 </a>
+
+## 🌱 I’m currently learning C a useful language
+
+## 📫 How to reach me:
+
+* Email : [Theodore Delbove](theodore.delbove@gmail.com)
+* Instagram : [@theodore.dlb](https://www.instagram.com/theodore.dlb/)
+
+## ⚡ Fun fact:
+
+I start programming when I am 10 yo, that's early.
 
 <!--
 **TheodoreDev/TheodoreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
