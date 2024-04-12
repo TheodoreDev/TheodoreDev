@@ -7,6 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheodoreDev&theme=github_dark&layout=compact" />
 </a>
 <hr>
+
 **🌱 I’m currently learning C a useful language**
 
 ## 📫 How to reach me:
