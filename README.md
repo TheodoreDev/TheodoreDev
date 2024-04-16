@@ -12,7 +12,7 @@
 
 ## 📫 How to reach me:
 
-* Email : [Theodore Delbove](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZfRxDhJQDZBNFNqsjRRlfTLfqkFxbSCBRvkjTQHkmCfbKmwLpfmTltxQWWPZVmLgnZpbq)
+* Email : theodore.delbove@gmail.com
 * Instagram : [@theodore.dlb](https://www.instagram.com/theodore.dlb/)
 
 ## ⚡ Fun fact:
