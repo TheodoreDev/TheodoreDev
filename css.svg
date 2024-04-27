@@ -1,38 +1,38 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <div class="accounts" style="border: 3px solid black; border-radius: 20px; padding: 20px; display: flex; justify-content: center; width: 800px;">
-        <div class="insta-link" style="width: 300px; height: 150px; 
-        background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d, rgb(252, 193, 0));
-        border: 3px solid rgb(255, 0, 0); border-radius: 20px;
-        display: flex; justify-content: center; align-items: center;
-        margin: 0px 30px 0px 30px;">
-            <a href="https://www.instagram.com/theodore.dlb/" style="width: 100px; height: 100px;
-            display: flex; justify-content: center; align-items: center;">
-                <img src="Instagram-Logo-PNG-Pic.png" style="width: 100px; height: 100px;">
-            </a>
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <div class="accounts" style="border: 3px solid black; border-radius: 20px; padding: 20px; display: flex; justify-content: center; width: 800px;">
+              <div class="insta-link" style="width: 300px; height: 150px; 
+              background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d, rgb(252, 193, 0));
+              border: 3px solid rgb(255, 0, 0); border-radius: 20px;
+              display: flex; justify-content: center; align-items: center;
+              margin: 0px 30px 0px 30px;">
+                  <a href="https://www.instagram.com/theodore.dlb/" style="width: 100px; height: 100px;
+                  display: flex; justify-content: center; align-items: center;">
+                      <img src="Instagram-Logo-PNG-Pic.png" style="width: 100px; height: 100px;">
+                  </a>
+              </div>
+              <div class="github-link" style="width: 300px; height: 150px; 
+              background-color: white;
+              border: 3px solid rgb(0, 0, 0); border-radius: 20px;
+              display: flex; justify-content: center; align-items: center;
+              margin: 0px 30px 0px 30px;">
+                  <a href="https://github.com/TheodoreDev/TheodoreDev" style="width: 100px; height: 100px;
+                  display: flex; justify-content: center; align-items: center;">
+                      <img src="GitHub-Symbol.png" style="width: auto; height: 100px;">
+                  </a>
+              </div>
+              <div class="mail" style="width: 300px; height: 150px; 
+              background-color: white;
+              border-radius: 20px; border-bottom: 3px solid blue; border-left: 3px solid red; border-top: 3px solid rgb(255, 217, 0); border-right: 3px solid green;
+              display: flex; justify-content: center; align-items: center;
+              margin: 0px 30px 0px 30px;">
+                  <a href="mailto:theodore.delbove@gmail.com" style="width: auto; height: auto;
+                  display: flex; justify-content: center; align-items: center;">
+                      <img src="gmail-mail-icon-for-web-design-free-png.jpg" style="width: auto; height: 100px;">
+                  </a>
+              </div>
+            </div>
         </div>
-        <div class="github-link" style="width: 300px; height: 150px; 
-        background-color: white;
-        border: 3px solid rgb(0, 0, 0); border-radius: 20px;
-        display: flex; justify-content: center; align-items: center;
-        margin: 0px 30px 0px 30px;">
-            <a href="https://github.com/TheodoreDev/TheodoreDev" style="width: 100px; height: 100px;
-            display: flex; justify-content: center; align-items: center;">
-                <img src="GitHub-Symbol.png" style="width: auto; height: 100px;">
-            </a>
-        </div>
-        <div class="mail" style="width: 300px; height: 150px; 
-        background-color: white;
-        border-radius: 20px; border-bottom: 3px solid blue; border-left: 3px solid red; border-top: 3px solid rgb(255, 217, 0); border-right: 3px solid green;
-        display: flex; justify-content: center; align-items: center;
-        margin: 0px 30px 0px 30px;">
-            <a href="mailto:theodore.delbove@gmail.com" style="width: auto; height: auto;
-            display: flex; justify-content: center; align-items: center;">
-                <img src="gmail-mail-icon-for-web-design-free-png.jpg" style="width: auto; height: 100px;">
-            </a>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+    </foreignObject>
 </svg>
