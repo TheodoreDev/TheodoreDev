@@ -12,7 +12,7 @@
 
 ## 📫 How to reach me:
 
-<img src="css.svg" width="400" height="400" alt="css-in-readme">
+<img src="css.svg" width="auto" height="auto" alt="css-in-readme">
 
 ## ⚡ Fun fact:
 
