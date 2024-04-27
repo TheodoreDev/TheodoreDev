@@ -12,7 +12,11 @@
 
 ## 📫 How to reach me:
 
-<img src="css.svg" width="auto" height="auto" alt="css-in-readme">
+<p align='center'>
+<a href="https://www.instagram.com/theodore.dlb/"><img height="30" src="https://github.com/TheodoreDev/TheodoreDev/main/icon/insta.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/TheodoreDev/TheodoreDev"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:theodore.delbove@gmail.com"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+</p>
 
 ## ⚡ Fun fact:
 
