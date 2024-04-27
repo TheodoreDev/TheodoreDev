@@ -1,8 +1,5 @@
 ![MasterHead](img/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.avif)
 
-<br>
-<br>
-
 <div>
   <h1 align="center">Hi 👋, I'm Theodore</h1>
   <h3 align="center">A developper in my spare time</h3>
