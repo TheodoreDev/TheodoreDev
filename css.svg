@@ -79,20 +79,20 @@
                     height: 100px;
                 }
             <style>
-            <div class="accounts">
-                <div class="insta-link">
-                    <a href="https://www.instagram.com/theodore.dlb/">
-                        <img src="Instagram-Logo-PNG-Pic.png"></img>
+            <div class="accounts" >
+                <div class="insta-link" >
+                    <a href="https://www.instagram.com/theodore.dlb/" >
+                        <img src="Instagram-Logo-PNG-Pic.png" />
                     </a>
                 </div>
-                <div class="github-link">
-                    <a href="https://github.com/TheodoreDev/TheodoreDev">
-                        <img src="GitHub-Symbol.png"/>
+                <div class="github-link" >
+                    <a href="https://github.com/TheodoreDev/TheodoreDev" >
+                        <img src="GitHub-Symbol.png" />
                     </a>
                 </div>
-                <div class="mail">
-                    <a href="mailto:theodore.delbove@gmail.com">
-                        <img src="gmail-mail-icon-for-web-design-free-png.jpg"/>
+                <div class="mail" >
+                    <a href="mailto:theodore.delbove@gmail.com" >
+                        <img src="gmail-mail-icon-for-web-design-free-png.jpg" />
                     </a>
                 </div>
             </div>
