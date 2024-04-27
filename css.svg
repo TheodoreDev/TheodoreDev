@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 800 800" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
+<svg fill="none" viewBox="0 0 800 800" width="800" height="400" xmlns="http://www.w3.org/2000/svg" >
+    <foreignObject width="100%" height="100%" >
+        <div xmlns="http://www.w3.org/1999/xhtml" >
             <style>
                 .accounts {
                     border: 3px solid black; 
@@ -78,7 +78,7 @@
                     width: auto; 
                     height: 100px;
                 }
-            <style>
+            </style>
             <div class="accounts" >
                 <div class="insta-link" >
                     <a href="https://www.instagram.com/theodore.dlb/" >
