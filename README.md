@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **A simple OS just for fun**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** and **ASM**
 
 - 💬 Ask me about **Computer**
 
