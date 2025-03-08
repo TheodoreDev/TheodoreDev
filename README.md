@@ -14,7 +14,7 @@
 
 - 📫 How to reach me <a href="mailto:theodore.delbove@gmail.com">**theodore.delbove@gmail.com**</a>
 
-- ⚡ Fun fact **I start programming when I am 11 yo**
+- ⚡ Fun fact **I started programming when I was 11 yo**
 
 ### My presence on the web
 <p align='left'>
@@ -36,18 +36,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheodoreDev&theme=github_dark&layout=compact" />
 </a>
 <hr>
-
-<!--
-**TheodoreDev/TheodoreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
