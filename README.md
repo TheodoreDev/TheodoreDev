@@ -14,7 +14,7 @@
 
 - 📫 How to reach me <a href="mailto:theodore.delbove@gmail.com">**theodore.delbove@gmail.com**</a>
 
-- ⚡ Fun fact **I start programming when I am 10 yo**
+- ⚡ Fun fact **I start programming when I am 11 yo**
 
 ### My presence on the web
 <p align='left'>
