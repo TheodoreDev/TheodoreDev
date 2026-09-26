@@ -6,11 +6,11 @@
   <img align="right" width="200px" src="img/_de3a9cf5-6f91-4f5a-b4db-4f91543dbc18.jpeg"/>
 </div>
 
-- 🔭 I’m currently working on **A simple OS just for fun**
+- 🔭 I’m currently working on **A satellite constellation modeling (TIPE)**
 
 - 🌱 I’m currently learning **C** and **ASM**
 
-- 💬 Ask me about **Computer**
+- 💬 Ask me about **Computer or IT in general**
 
 - 📫 How to reach me <a href="mailto:theodore.delbove@gmail.com">**theodore.delbove@gmail.com**</a>
 
